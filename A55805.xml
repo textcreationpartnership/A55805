@@ -1,0 +1,401 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The unequal unyoked, and the equal yoked, and light separated from darkness, &amp; darkness and blindness joyn'd together in answer to a paper that would joyn together truth and untruth, the true worship and the false : and here it is discovered, and the author thereof in part rewarded, by joyning him justly to those he unjustly joyned others to / by a lover of justice and equity and hater of the contrary, Peter Price.</title>
+            <author>Price, Peter, 1600?-1691.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1683</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 54 KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A55805</idno>
+            <idno type="STC">Wing P3397</idno>
+            <idno type="STC">ESTC R9270</idno>
+            <idno type="EEBO-CITATION">13742583</idno>
+            <idno type="OCLC">ocm 13742583</idno>
+            <idno type="VID">101678</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A55805)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 101678)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 847:61)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The unequal unyoked, and the equal yoked, and light separated from darkness, &amp; darkness and blindness joyn'd together in answer to a paper that would joyn together truth and untruth, the true worship and the false : and here it is discovered, and the author thereof in part rewarded, by joyning him justly to those he unjustly joyned others to / by a lover of justice and equity and hater of the contrary, Peter Price.</title>
+                  <author>Price, Peter, 1600?-1691.</author>
+               </titleStmt>
+               <extent>20 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed and sold by Andrew Sowle ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1683.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catholic Church --  Controversial literature.</term>
+               <term>Society of Friends --  Controversial literature.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:101678:1"/>
+            <pb facs="tcp:101678:1" rendition="simple:additions"/>
+            <p>THE Unequal Unyoked AND <hi>The Equal Yoked,</hi> AND <hi>Light</hi> ſeparated from <hi>Darkneſs,</hi> &amp; <hi>Dark<g ref="char:EOLhyphen"/>neſs</hi> and <hi>Blindneſs</hi> joyn'd together.</p>
+            <p>In Anſwer to a Paper that would joyn together <hi>Truth</hi> and <hi>
+                  <g ref="char:V">Ʋ</g>ntruth,</hi> the <hi>true Worſhip</hi> and the <hi>falſe.</hi>
+            </p>
+            <p>And here it is diſcovered, and the Author thereof in part rewarded, by joyning him juſtly to thoſe he unjuſtly joyned others to.</p>
+            <p>
+               <hi>By a Lover of Juſtice and Equity, and Hater of the Contrary,</hi> PETER PRICE.</p>
+            <q>Her Prieſts have violated my Law, and have prophaned my holy things; and have put no difference between the Holy and the Prophane; nei<g ref="char:EOLhyphen"/>ther have they ſhewed difference between the <g ref="char:V">Ʋ</g>nclean and the Clean, and have hid their Eyes from my Sabbaths, and I am prophaned among them,
+<bibl>
+                  <hi>Ezek. 22.26.</hi>
+               </bibl>
+            </q>
+            <q>And as Troops of Robbers wait for a Man, ſo the Company of Prieſts Murder in the way by conſent, for they commit Lewdneſs,
+<bibl>
+                  <hi>Hoſea 6.9.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>London,</hi> Printed and Sold by <hi>Andrew Sowle</hi> at the Crooked-Billet in <hi>Holloway-Lane</hi> in <hi>Shoreditch,</hi> 1683.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:101678:2"/>
+            <pb n="3" facs="tcp:101678:2"/>
+            <head>The Unequal unyoked and the Equal yoked, <hi>&amp;c.</hi>
+            </head>
+            <p>THere came a Paper to my hands, from a Biſhop, as I am credibly informed, and I have ſtrong Reaſons to believe that it came from his hand, or ſome of his Prieſtly Generation. 1ſt, Becauſe the Compariſons came not from the Spirit of God, but from a Darkniſt, who is ignorant of the Truth of God, that did not ſee the difference between us and his Father, the Pope: 2dly, It is plainly ſeen, that it came from a malicious Heart, that would have a ſuffering peaceable People ſtill to ſuffer, and ſo doth joyn with the Oppreſſors to oppreſs the Oppreſſed; and thus he ſaith;</p>
+            <p>
+               <hi>That any man may ſee and diſcover how near</hi> Quakers <hi>and</hi> Papiſts <hi>are in Opinion, let them read theſe following Compariſons of the one to the other.</hi>
+            </p>
+            <p n="1">1. Quakers <hi>claim the Spirit to Infallibility, ſo doth</hi> Pope <hi>and</hi> Papiſts.</p>
+            <p>
+               <hi>Anſw.</hi> The Spirit of God is Infallible, which we do own and poſſeſs; and wouldſt thou have us to deny the Spirit of God to be what we know it to be, becauſe Papiſts, as thou ſayſt, do own it ſo to be! It is clearly ſeen that thou art a ſtranger to the Spirit of God, who wouldſt have it to be fallible; and not only ſo, but alſo any Enemy to it, that would undervalue the unchangeable and infallible Spirit of God. <hi>Now if any man have not the Spirit of Chriſt, he is none of his,</hi> Rom. 4.9. and verſ. 11. <hi>He that raiſed up Chriſt from the dead, ſhall alſo quicken your mortal Bodies, by his Spirit that dwelleth in you;</hi> and verſ. 15. <hi>But ye have received the Spirit of Adoption.</hi> The People of God in all Ages had (and now have) the Spirit of God to be their Tea<g ref="char:EOLhyphen"/>cher, Counſellor and Inſtructor in all things, and it is given to every man to profit withal; and if we cannot claim title to the Spirit of Infallibility, what benefit may we expect from that which is given to fail, to change or to alter? But the fallible deceive<g ref="char:EOLhyphen"/>able Spirit doth enquire after large Livings, great Wages, and
+<pb n="4" facs="tcp:101678:3"/>moſt Hire, Benefit and worldly Riches to enjoy; and this is an earthly, worldly, ſelfiſh, greedy, covetous Spirit, which ever was (and now is) againſt the Spirit of God, and all thoſe that were (and are) led by it. This is the Wolfs devouring Spirit that caſteth to Priſon, and devoureth the goods of them that cannot feed it: <hi>Behold the Devil ſhall caſt ſome of you into Priſon,</hi> Rev. 2.10.</p>
+            <p n="2">2 Quakers <hi>make themſelves the ſole Church, ſo</hi> Papiſts.</p>
+            <p>
+               <hi>Anſw.</hi> Here we are falſly accuſed; for we do not make our ſelves the ſole Church; for what we are is of the Lord, and not of our ſelves, and he hath made us Members of his Church, <hi>and the Lord added to the Church daily ſuch as ſhould be ſaved,</hi> Acts 2.47. <hi>The Church is the Body of Chriſt,</hi> Col. 1.24. And we could not make our ſelves the Body of Chriſt, the Body muſt be like the Head; for by him they are redeemed out of the Sins, which the World doth live in; for they, by Chriſt their Head, are waſh<g ref="char:EOLhyphen"/>ed, cleanſed, purified, fitted and prepared for himſelf to dwell therein. Theſe, and ſuch as theſe, are the Church of God.</p>
+            <p n="3">3. Quakers <hi>hold no Salvation, but in their Meetings, ſo do</hi> Papiſts <hi>but in their Communion.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> Here we are again falſly accuſed, for we hold Salvation no where elſe but only in and through Jeſus Chriſt, the Son of the living everlaſting God.</p>
+            <p n="4">4. Quakers <hi>are Recuſants, ſo</hi> Papiſts.</p>
+            <p>
+               <hi>Anſw.</hi> How now, Biſhop and Prieſt! (I ſpeak to them only that are guilty) would you now make us Recuſants becauſe we cannot ſeed your greedy Bellies, nor maintain you in your Pride and Covetouſneſs? we dare not feed that which Chriſt came to deſtroy, the which would deſtroy Chriſt in his Members.</p>
+            <p n="5">5. Quakers <hi>deny Biſhops to be</hi> jure divino, <hi>ſo</hi> Papiſts, <hi>witneſs the Council of</hi> Trent.</p>
+            <p>
+               <hi>Anſw.</hi> We do deny you to be what you are not, and we do own you to be what you are; for we wreſtle not againſt Fleſh and Blood, but againſt Princi<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>lities, againſt Powers, againſt the Rulers of the Darkneſs of this World, againſt ſpiritual Wickedneſs in high places (as they did) <hi>Epheſ.</hi> 6.12. Your <hi>jure divino</hi> is your ſpiritual Wickneſs in high places. Come down exalted boaſted Selfiſhneſs; the everlaſting Biſhop we own, and thoſe that are called and choſen by him, are alſo by
+<pb n="5" facs="tcp:101678:3"/>him made divine, and it is his right to overſee the Soul; but you that covet after filthy Lucre we deny.</p>
+            <p n="6">6 Quakers <hi>are of rebellious Tenets, ſo</hi> Papiſts.</p>
+            <p>
+               <hi>Anſw.</hi> Let all People that are not defiled with Tythes, judge who are moſt quarrelſom, troubleſom, burdenſom, and whoſe Tenets are moſt Rebellious againſt all appearance of Godlineſs, and who are bad Examples, you or us? As the high Prieſts did ſtir the Magiſtrates and People againſt Chriſt Jeſus and his fol<g ref="char:EOLhyphen"/>lowers, perſwading the People, that he did thoſe mighty Works which he did through <hi>Belzebub,</hi> &amp; that his Followers were movers of Sedition, and turners of the World up-ſide down. So like<g ref="char:EOLhyphen"/>wiſe this man, who is one in Enmity and Malice, with his Pre<g ref="char:EOLhyphen"/>deceſſors (the high-Prieſts) hath falſly belyed us, expecting thereby to ſtir Perſecution againſt us; ſo his envious Spirit is ſeen and judged.</p>
+            <p n="7">7. Quakers, <hi>as they piece up the Word of God by wild Fancies, pre<g ref="char:EOLhyphen"/>tended Revelations, ſo</hi> Papiſts <hi>by Traditions.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> The Word of God thou knoweſt not, which cannot be pieced, broken, changed or altered; thou doſt botter know how to compel the People to maintain thee (whilſt thou haſt the Magiſtraies on thy ſide) than to ſpeak of things that are too high for the Nature thou art in; but <hi>the Natural man parceiveth not the things of the Spirit of God, for they are fooliſhneſs unto him; neither can he know them, for they are ſpiritually diſcerned,</hi> 1 Cor. 2.14.</p>
+            <p n="8">8. Quakers <hi>are againſt Common-Prayer, ſo</hi> Papiſts.</p>
+            <p>
+               <hi>Anſw.</hi> Thou who art ſenſual, it is, that needeſt the Common-Prayer, who haſt not the Spirit of God to pray by, which the holy men of God had to teach them to pray, and to declare the things revealed to them by the Spirit of God.</p>
+            <p n="9">9. Quakers <hi>for nothing in the Bible but what ſerves their turns, ſo</hi> Papiſts <hi>for</hi> Latine, <hi>which the Vulgar cannot underſtand.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> We are for what the Scriptures are for (and it doth all ſerve our turn) and againſt vvhat the Scriptures are againſt; they are againſt Hirelings that run for their Wages, and againſt all manner of Ungodlineſs, and ſo are We; yet all doth make for us, (vvhich came from the Spirit of Truth) and againſt you, from the beginning of <hi>Geneſis</hi> to the end of the <hi>Revelations;</hi> there<g ref="char:EOLhyphen"/>fore
+<pb n="6" facs="tcp:101678:4"/>we cannot miſlike any part of the Scriptures of Truth; for they were declared by the Spirit, which is our Teacher.</p>
+            <p n="10">10. Quakers, <hi>they alone Godly, ſo</hi> Papiſts, <hi>Holineſs of Life be<g ref="char:EOLhyphen"/>ing one of the Marks of their Church.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> It ſeems, by theſe thy Compariſons, that thou doſt diſ<g ref="char:EOLhyphen"/>allow of <hi>Godlineſs,</hi> and that the Marks of thy Church is <hi>Wicked<g ref="char:EOLhyphen"/>neſs;</hi> and it is true, for what manner of Wickedneſs, that can be thought of, but is committed among you, who call your ſelves the <hi>Church of England, the miſerable Sinners, without Health in you?</hi> witneſs your general Confeſſion.</p>
+            <p n="11">11. Quakers <hi>will be judged by no man, ſo</hi> Papiſts.</p>
+            <p>
+               <hi>Anſw.</hi> The Worldly, Earthly, Natural, Selfiſh-minded man is not to judge any; but he that is ſpiritual judgeth all things, yet he himſelf is judged of no man, 1 Cor. 2.15.</p>
+            <p n="12">12. Quakers <hi>have been of our</hi> Liturgy, <hi>ſo</hi> Papiſts.</p>
+            <p>
+               <hi>Anſw.</hi> It is true, we have been too long in the ungodly Life, (where ſtill you are) and then you did love us, but ſince we came out of that Life to lead a godly Life, and to teſtifie againſt that Life (which we did, and which you do, to this day live in) then did you hate us, perſecute us, and ſpeak Evil of us; read <hi>Epheſ.</hi> 2. <hi>v.</hi> 1, 2, 3, 4, 5. and there it may be ſeen what we were, and what we are, according to the operation of the ſame Grace.</p>
+            <p n="13">13. Quakers <hi>would have no Secular Power for Clergy, ſo</hi> Papiſts.</p>
+            <p>
+               <hi>Anſw.</hi> Poor man! thou having not the Wiſdom and Power which is of God, art in the Wiſdom which is fooliſhneſs with God; read 1 <hi>Cor.</hi> 1. from <hi>verſ.</hi> 17. to the end, and thou ſhalt or mayſt ſee what your Wiſdom, Power and Glory is, and what it will be made of. In the 5th Compariſon thou wouldſt be <hi>jure divino,</hi> and here ſecular Power; it ſeems, the Honour that hath an end, and the corrupt Riches, your hearts are fixed upon, and the more you have, the more you deſire to have; ſo that nothing can ſatisfie your greedy Hearts, like your greedy unholy Father, the Pope, who would have all Power to himſelf.</p>
+            <p n="14">14. Quakers <hi>will propagate Religion by the Sword, when able; ſo</hi> Antichriſt <hi>and</hi> Mahumet.</p>
+            <p>
+               <hi>Anſw.</hi> Here thou haſt not yoked us with <hi>Pope</hi> and <hi>Papiſts,</hi> but with <hi>Antichriſt</hi> and <hi>Mahumet;</hi> it ſeems thou haſt better thoughts
+<pb n="7" facs="tcp:101678:4"/>of <hi>Papiſts,</hi> than that they will fight for their Religion, or elſe thou wouldſt have put them in with us in this, as well as <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n all the reſt of thy falſe Accuſations: In this thy cruel Envy and bitter Malice towards us, more than any other People, is made manifeſt, and in thee this Scripture fulfilled, but as then, <hi>he that was born after the Fleſh, perſecuted him that was born after the Spirit,</hi> even ſo it is now, <hi>Gal.</hi> 4.29. The Enmity is againſt the Seed begotten of God, and in time he will clear the Innocency of his ſuffering peaceable People: If we had relied or had any thoughts of pur<g ref="char:EOLhyphen"/>ting our Truſt in outward Weapons, or in the ſtrength of man, we had been by men deſtroyed before now; but the living Lord God, the King of all Kings, the Judge of all Judges, the Biſhop of our Souls, he is on our ſide, he is our only Strength, Keeper, Preſerver and Redeemer, our Teacher, Counſellor and Inſtru<g ref="char:EOLhyphen"/>ctor; he doth lead us, and we are the Lamb's Followers, and he doth own us to be his People, and the Sheep of his Paſture; ſo that we fear not what the uncircumciſed in heart and ears can do to us; for before our Father, who hath begotten us from amongſt you, muſt you all ſtand and appear, and he will judge you ac<g ref="char:EOLhyphen"/>cording to what you do againſt his Children, except in time you will Repent.</p>
+            <p n="15">15. Quakers <hi>pretend Miracles, elſe why do they decry human means of Learning? ſo</hi> Papiſts.</p>
+            <p>
+               <hi>Anſw.</hi> Miracles done by Chriſt were not believed by an envious perſecuting Generation, even ſo it is now; and we are for Learning, and do keep our Children at Schools, but we are againſt all that make bad uſe of their Learning, and by it come to be burdenſom to others, and make themſelves more like <hi>Lucifer</hi> than if they had been without it: We are not againſt any good thing, but againſt making a bad uſe of any thing that is good.</p>
+            <p n="16">16. Quakers <hi>they are Martyrs, when puniſhed for Faction, Sedi<g ref="char:EOLhyphen"/>tion and Separation; ſo</hi> Papiſts, <hi>puniſhed for Treaſon.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> Here again we are falſly accuſed, for <hi>Faction</hi> and <hi>Sedition</hi> we deny, and it could not be proved againſt us, neither were we puniſhed for it, neither can any of you truly make it appear, that we are <hi>Factious</hi> or <hi>Seditious;</hi> but as to the word <hi>[Separation]</hi> I con<g ref="char:EOLhyphen"/>feſs that we are ſeparated from your ungodly Lives, unprofitable Ceremonies and unfruitful Meetings, and have our Meetings and
+<pb n="8" facs="tcp:101678:5"/>Worſhip in the Spirit and living Truth of God, and in this we do rejoyce, and to this I would have you all to come, that with us you may partake of the ſpiritual Virtue that we enjoy, and is not known but to the Birth begotten of God, which only hath right to call God Father, and is hidden from that Nature that ravens for Hire and Wages, and not to gain Souls to Chriſt.</p>
+            <p>Here thy Compariſons are anſwered, and thy fooliſh Malice made manifeſt, and that which thou wouldſt caſt upon us, (unde<g ref="char:EOLhyphen"/>ſerved) returned to thee and them, according to your Deſerts, as followeth;</p>
+            <p n="1">1. <hi>Biſhop</hi> and <hi>Prieſt</hi> having not the Infallible Spirit of God, (at ſome of them confeſs) do gather and come together by ſound of Bells, ſo <hi>Pope</hi> and <hi>Papiſts.</hi>
+            </p>
+            <p n="2">2. <hi>Biſhop</hi> and <hi>Prieſt</hi> do feed the People with what men command them, ſo <hi>Papiſts.</hi>
+            </p>
+            <p n="3">3. <hi>Biſhop</hi> and <hi>Prieſt</hi> do caſt a little Water on Childrens heads and the ſign of the Croſs, to make them Chriſtians, ſo <hi>Papiſts.</hi>
+            </p>
+            <p n="4">4. <hi>Biſhop</hi> and <hi>Prieſt</hi> are ſet at work by men, and receive their Wages from men, ſo <hi>Papiſts.</hi>
+            </p>
+            <p n="5">5. <hi>Biſhop</hi> and <hi>Prieſt</hi> have Croſſes on the Houſes where they worſhip, ſo <hi>Pope</hi> and <hi>Papiſts.</hi>
+            </p>
+            <p n="6">6. <hi>Biſhop</hi> and <hi>Prieſt</hi> do compel the People to maintain them, ſo <hi>Pope</hi> and <hi>Papiſts.</hi>
+            </p>
+            <p n="7">7. <hi>Biſhop</hi> and <hi>Prieſt</hi> do exalt humane Learning above its place, ſo <hi>Pope</hi> and <hi>Papiſts.</hi>
+            </p>
+            <p n="8">8. <hi>Biſhop</hi> and <hi>Prieſt</hi> do wear their ſeveral ſorts of Caps, and other ſorts of vain uſeleſs Garments, according to what Title they give themſelves; ſo <hi>Pope</hi> and <hi>Papiſts.</hi>
+            </p>
+            <p n="9">9. <hi>Biſhop</hi> and <hi>Prieſt</hi> would puniſh all that will not joyn with them in their Worſhip, ſo <hi>Pope</hi> and <hi>Papiſts.</hi>
+            </p>
+            <p n="10">10. <hi>Biſhop</hi> and <hi>Prieſt</hi> are ſuch Perſecutors of others, that they cannot be equally yoked without <hi>Pope</hi> and <hi>Papiſts.</hi>
+            </p>
+            <p n="11">11. <hi>Biſhop</hi> and <hi>Prieſt</hi> having not the Sword of the Spirit, which is the Word of God, cannot ſubſiſt without Law in their own Courts, carnal Weapons, or help of Magiſtrates; ſo <hi>Pope</hi> and <hi>Papiſts.</hi>
+            </p>
+            <p n="12">12. <hi>Biſhop</hi> and <hi>Prieſt</hi> cannot live by the Goſpel, which they
+<pb n="9" facs="tcp:101678:5"/>have not, but by the Tythes, which they will have, while they can; ſo <hi>Pope</hi> ane <hi>Papiſts.</hi>
+            </p>
+            <p n="13">13. <hi>Biſhop</hi> and <hi>Prieſt</hi> count all <hi>Faction, Sedition, Hereſie</hi> and <hi>Separation,</hi> that ſeparate from them, and cannot feed their Luſts and Pride, ſo <hi>Pope</hi> and <hi>Papiſts,</hi> that will not joyn with them in their Maſs. <hi>Biſhop</hi> and <hi>Prieſt,</hi> in what do you differ from the Pope and his Deputies? Had it not been a ſhorter work to ſhew in what you do differ, than in what you are one with them? Wherein doth your Worſhip and Diſcipline differ from the <hi>Pope</hi> and <hi>Papiſts?</hi>
+            </p>
+            <p n="14">14. <hi>Biſhop</hi> and <hi>Prieſt,</hi> you may be joyned with <hi>Pope</hi> and <hi>Papiſts</hi> in your Bowings, Bendings, Stoopings and vain Geſtures and Poſtures, Forms, Traditions, Cuſtoms, Faſhions and Ceremo<g ref="char:EOLhyphen"/>nies, which do not at all concern the Worſhip of God, which is to be in the Spirit and in Truth, and not in the aforeſaid vain things, or the like.</p>
+            <p n="15">15. <hi>Biſhops,</hi> we are not againſt the Name; for ſuch a Biſhop as is allowed by the Scriptures of Truth, we allow of, read 1 <hi>Tim.</hi> 3. but ſuch you are not, but Perſecutors of the Life and Godly Condition that they did live in, and you and your Fami<g ref="char:EOLhyphen"/>lies are more like proud <hi>Morriee-dancers,</hi> than modeſt civil orderly <hi>Chriſtians:</hi> And ſeeing you and your Followers in a ſad deſperate Condition, I cannot chuſe but in love acquaint you with it, and declare againſt it, that you may be left without excuſe, and keep my Conſcience clear towards God and you. And what I ſay in this caſe to you, I ſay to all that are in your Condition, <hi>Repent, Repent, Repent</hi> in time, before it be too late, and the Door of Mercy ſhut, and you kept out with the wicked World, which go the broad Way and wide Gate that leads to deſtruction, where many do go; for the narrow Way and ſtrait Gate that leadeth to Salvation, where the little Flock hath and doth ſtrive to enter in, you do not love, but ſpeak evil of; for Covetouſneſs, Pride, Malice and Selfiſhneſs cannot enter in there: Theſe and the like are the burdens which hinder, and muſt be caſt away, or elſe no entring in for ſuch; ſo <hi>Pope</hi> and <hi>Papiſts.</hi>
+            </p>
+            <p n="16">16. Oh! how my Heart doth pity the People which by you Biſhops and Prieſts are deceived; of ſuch there was a Complaint, and of you there is a Complaint, 2 Cor. 4.3, 4. <hi>But if our Goſpel
+<pb n="10" facs="tcp:101678:6"/>be hid, it is hid in them that are loſt, in whom the god of this World hath blinded the Minds of them which believe not, leſt the Light of the glorious Goſpel of Chriſt, who is the Image of God, ſhould ſhine unto them.</hi> The Goſpel, which is hid, is the Power of God, and the God of the World that doth hide it, is the Devil, and the means that the Devil hath to hide the Goſpel, and to blind the Mind, is Sin; <hi>Your Sins have ſeparated you from God,</hi> and your Sins do <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cauſe him to hide his face from you, and your Sins hinder good things to come unto you; <hi>and he that committeth ſin is of the Devil; and we know that we are of God, and the whole World lieth in Wickedneſs,</hi> John 5.19. And the holy men of God in all Ages did declare and cry againſt the Sins which you now live in; and they that can truly witneſs a godly Life now, do deny you, and cry againſt you: And as the Godly by the Ungodly formerly did ſuffer, even ſo it is now; ſo one with <hi>Pope</hi> and <hi>Papiſts</hi> in Perſecution.</p>
+            <p n="17">17. <hi>Biſhop</hi> and <hi>Prieſt</hi> have Organs and Singing-Boys in their Worſhip, ſo <hi>Pope</hi> and <hi>Papiſts.</hi>
+            </p>
+            <p n="18">18. <hi>Biſhop</hi> and <hi>Prieſt</hi> do take to themſelves what belongs to <hi>God,</hi> to judge of Conſcience in matter of Religion; ſo <hi>Pope</hi> and <hi>Papiſts.</hi>
+            </p>
+            <p n="19">19. <hi>Biſhop</hi> and <hi>Prieſt</hi> are for Churching of Women, ſo <hi>Pope</hi> and <hi>Papiſts.</hi>
+            </p>
+            <p n="20">20. <hi>Biſhop</hi> and <hi>Prieſt</hi> do idolize the Pariſh-houſe, where they meet to Worſhip, and call it a Church, and hold it to be a more holy Ground and virtuous Place than other Ground and Places, witneſs what a vain Meeting, Preaching, Blowing and Praying there was (the Service cannot be acceptable, where the end is not right) to conſecrate and ſanctifie the new builded Church (as they call it) at <hi>Glaiſbury</hi> in <hi>Radnorſhire,</hi> by <hi>William Lucy,</hi> Biſhop of St <hi>Davids</hi> (ſo called) and his Hireling Prieſts (as it is generally reported) there was ſo much Idolatrous Practice, Ce<g ref="char:EOLhyphen"/>remonies and unprofitable Worſhip there then, as if it had been by the Pope in <hi>Rome;</hi> for their old Church being on the Sandy Foundation, was undermined by the River <hi>Wey,</hi> which hath made a ſeparation between the Prieſt and his Church, ſo that he nor his Pariſhioners cannot go to their Church, nor their dead Church to them; but the Gates of Hell, the Devil and all his Power cannot prevail againſt the true Living Church in God; but the
+<pb n="11" facs="tcp:101678:6"/>River <hi>Wey</hi> is too ſtrong for the old Houſe, falſly called a Church. The true Church from the falſe you may know, if you read and believe the Scriptures, <hi>Mat.</hi> 16.18. &amp; 18.17. <hi>Acts</hi> 2.47. and 20.28. <hi>Epheſ.</hi> 5.24, 25. <hi>Col.</hi> 1.24. 1 <hi>Tim.</hi> 3.15. compare what Chriſt and his Apoſtles did declare the Church to be, and what the Prieſts do call a Church, and you ſhall or may ſee great diſſer<g ref="char:EOLhyphen"/>ence; and the cauſe of my Writing is, that you may come to be Members of the true Church, where Chriſt is the Head.</p>
+            <p n="21">21. <hi>Biſhop</hi> and <hi>Prieſt</hi> do pretend to keep Holy dayes in remem<g ref="char:EOLhyphen"/>brance of ſome holy men that are dead theſe many hundred years ago; ſo <hi>Pope</hi> and <hi>Papiſts;</hi> for by the Pope they were ſet up.</p>
+            <p n="22">22. <hi>Biſhop</hi> and <hi>Prieſt,</hi> many of your Forms, Cuſtoms and Tra<g ref="char:EOLhyphen"/>ditions are contrary to the Scriptures of Truth; ſo <hi>Pope</hi> and <hi>Papiſts.</hi>
+            </p>
+            <p n="23">23. <hi>Biſhop</hi> and <hi>Prieſt</hi> do compel the Country in their Pariſhes to buy and keep them ſine Linnen Cloth, as much as will make them a Garment to cover their black Clothes (but it will not cover their black ugly Sins) and they call it by the Name of a <hi>Surplice,</hi> that they wear during their common Service, and burying their dead, and Churching their Women (as they call it) Oh, the blindneſs of Popery!</p>
+            <p n="24">24. Prieſts in our Country do go from houſe to houſe to Church Women, with their Sexton to carry their Book and Surplice, and to ſay <hi>Amen,</hi> and they will have Money for ſo doing; ſo (by report) do the Papiſts, their pretended holy Water.</p>
+            <p n="25">25. <hi>Biſhop</hi> and <hi>Prieſt</hi> do keep Courts to puniſh Offenders, and when they do appear, they muſt contract for a Sum of Money, and it muſt be ſuch a ſum, that every Member, according to what he paid for his place, muſt have ſuch a Sum that he may live by it, and then the Offender ſhall have forgiveneſs of his Sins, and pardon under Hand and Seal: Leſt I ſhould miſtake, and the <hi>Papiſts</hi> not be ſo bad as you in this thing, I ſhall not compare them with you.</p>
+            <p n="26">26. <hi>Biſhop</hi> and <hi>Prieſt,</hi> you and your Courts have been more troubleſom and burdenſom to ſome of us, the People, than all other Courts and Taxes that we have paid ſince your heavy Yoke and cruel Bondage came upon us, which makes us to feel the weight and burden of it in our Eſtates, and in our Conſciences.</p>
+            <p n="27">
+               <pb n="12" facs="tcp:101678:7"/>27. <hi>Pope</hi> and <hi>Biſhop, Papiſt</hi> and <hi>Prieſt,</hi> you are here (and may be more at large ſo) yoked together, that you cannot be ſepa<g ref="char:EOLhyphen"/>rated while you continue in your Will-worſhip, and compelling Fellowſhip, and carnal Ordinances, and dry empty Forms, and forcing People to joyn with you whether they will or no, and your cruel Dealings with thoſe that cannot for Conſcience ſake joyn with you in your Self-Worſhips, which do not profit Soul nor Body. I ſay, while you do uſe the ſame means, and live in the ſame Condition as Pope and Papiſts do, what difference is between you and them? And who will joyn in Worſhip with ſuch a cruel mercileſs ſelf-ended People, as many of you are, ex<g ref="char:EOLhyphen"/>cept it be ſome in a ſlaviſh Condition, out of fear, or ſome that make gain from your unchriſtian Wages, or ſome other by-ends, as it appeareth, and as we find by the fruit of your corrupt Trees, which you have been all this while planting and dreſſing, and while they do feed you, you are at peace with them, be they never ſo bad and wicked; for if you will tell them of one fault, they can tell you of another, if not of two; <hi>ſo like Prieſt, like People,</hi> as the Scripture doth declare; if you should deny this, will not your Pariſhioners confeſs it? Chriſt ſaid, <hi>When thou are converted, then ſtrengthen thy Brethren.</hi> From what is evil, and to what is good are you converted? except it be from a ſmall Means and Wages to a greater, which is no Converſion, but Promotion: While you live in Covetouſneſs, you cannot do the People any good; <hi>a good Tree cannot bring forth evil Fruit, neither can a corrupt Tree bring forth good Fruit,</hi> Mat. 7.18. and in verſ. 15. <hi>Beware of falſe Prophets, which come to you in Sheeps Clothing, but in<g ref="char:EOLhyphen"/>wardly they are ravening Wolves.</hi> V. 16. <hi>Ye ſhall know them by their fruits, do men gather Grapes of Thorns, or Figs of Thiſtles?</hi> Here you are plainly ſeen and known to be the falſe Prophets; your Fruit doth make you manifeſt to every honeſt ſingle-hearted man. And are not many of you as cruel as Woles, and your good fruits a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> hard to be had as Grapes of Thorns, or Figs of Thiſtles. And is there any in the Nations like you, or to be compared to you i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Cruelty and Oppreſſion? And <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> not they blind, and want true Underſtanding, that cannot ſee, that you have the Marks that the falſe Prophets in all Ages had? witneſs the Scripture, from the beginning to the end, where it ſpeaks of falſe Prophets
+<pb n="13" facs="tcp:101678:7"/>You cannot hide your ſelves in this the day of the Lords Power, made manifeſt in and to his People; for this is the day that the Lord God makes up his <hi>jewels,</hi> and doth ſeparate his People from amongſt you the <hi>Goats, Wolves, Thorns</hi> and <hi>Thiſtles,</hi> and we are his <hi>People,</hi> and the <hi>Sheep of his Paſture;</hi> and we know his <hi>living voice,</hi> and the <hi>dead voices</hi> of you, who to him are ſtrangers, we will not hear nor follow; for you cannot <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ead us but where you are, in the <hi>dark Kingdom</hi> of this <hi>World,</hi> but the <hi>Lord,</hi> who is our <hi>living Shepherd,</hi> he hath and doth lead us to his <hi>King<g ref="char:EOLhyphen"/>dom, which is not of this World,</hi> as Chriſt ſaid; and in his <hi>Kingdom he doth feed his little flock,</hi> and there by him they are <hi>refreſhed, nouriſhed</hi> and <hi>pre<g ref="char:EOLhyphen"/>ſerved</hi> out of your <hi>cruel hands</hi> and <hi>corrupt food</hi> that is to periſh, and can<g ref="char:EOLhyphen"/>not feed nor ſerve your turn in time of need: And our <hi>food,</hi> our <hi>reſt, peace, joy, comfort, happineſs, fellowſhip</hi> and <hi>well-beeing</hi> is a <hi>hidden Myſtery</hi> to you <hi>Prieſts;</hi> if not, you would not ſeek us to come to you back again, where you have been too long already, and are reſolved in the Name of our God never to come back; <hi>Go not to them, but let them come to you,</hi> ſaith the Scriptures. Is there any reaſon that we ſhould pay you <hi>wages</hi> while you do us no <hi>ſervice,</hi> and we deny you and your <hi>Service?</hi> yet not<g ref="char:EOLhyphen"/>withſtanding you would <hi>reap</hi> where you do not <hi>ſow,</hi> and have the <hi>wages</hi> where another doth the <hi>work,</hi> and <hi>feed</hi> your <hi>greedy Bellies</hi> upon other mens <hi>Rights</hi> and <hi>Labours;</hi> &amp; you make many <hi>poor</hi> in making your ſelves <hi>rich;</hi> and many do go <hi>bare</hi> and <hi>fare hard</hi> to maintain your <hi>pride</hi> and <hi>fullneſs.</hi> And thus you <hi>perſecute Gods heritage,</hi> and are the <hi>greateſt Op<g ref="char:EOLhyphen"/>preſſors</hi> and <hi>Vexers</hi> of the People as any this day in this Kingdom: And if he that had not the <hi>Wedding Garment was caſt into utter Darkneſs, where is wailing and gnaſhing of Teeth,</hi> what will become of you that are clo<g ref="char:EOLhyphen"/>thed with the <hi>Garment of unrighteous Gains?</hi> If he that was among the <hi>People of God,</hi> and for them, and as to outward appearance, one of them, was thus dealt with, what will become of <hi>you</hi> that are againſt them and their Meetings, and hinder them, and break their Meetings? And if Chriſt did ſay to them that in his Members did not viſit him in Priſon, <hi>Depart from me, ye curſed, into everlaſting Fire, prepared for the Devil and his Angels,</hi> what will he ſay to you that do caſt him, in his Members, into Priſon? ſeeing that Chriſt ſaid ſo to them that were too ſhort in their Duty towards his People, what will he ſay to you that are cruel and ſpiteful towards his People? read <hi>Mat</hi> 25.32. to the end, and you may ſee the <hi>reward</hi> of both the <hi>godly</hi> and <hi>ungodly,</hi> the <hi>portion</hi> of the <hi>faithful</hi> and <hi>unfaithful.</hi> And if the <hi>five fooliſh Virgins</hi> came too ſhort, the door ſhut, and they kept out that were in <hi>company</hi> and <hi>profeſſion</hi> with the <hi>wiſe Virgins,</hi> what will become of you that do not only <hi>hate</hi> the <hi>company</hi> and <hi>profeſſion</hi> of the <hi>godly,</hi> but alſo ſet your ſelves to ſtrive againſt them, that
+<pb n="14" facs="tcp:101678:8"/>they may not <hi>trim their Lamps</hi> and prepare themſelves to make read <hi>to enter in with the Bridegroom:</hi> And plainly this is your work, to hinde the <hi>little ſlock</hi> to meet and follow the <hi>Lamb</hi> their <hi>leader. And if th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Righteous ſcarcely be ſaved, where ſhall the ungodly &amp; ſinners appear?</hi> I Pet 4.18. If thoſe whom God hath ſeparated from the <hi>ungodly world,</hi> and united them to himſelf, to witneſs for him, and againſt the <hi>Sim of the World,</hi> if they have nothing to ſpart, but <hi>ſcarcely be ſaved,</hi> Oh! where ſhall they appear that live in ſin, and plead for ſin, and ſay, <hi>they muſt ſin whilſt they live in the earthly body.</hi> No thanks to ceaſe when you can ſin no longer in the body. If you muſt live in <hi>Sin</hi> whilſt you are on thi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſide the Grave, when will you live in <hi>Righteouſneſs,</hi> ſeeing the Scripture ſaith, <hi>Know ye not, that to whom ye yield your ſelves Servants to obey, his Ser<g ref="char:EOLhyphen"/>vants you are, to whom ye obey, whether of ſin unto death, or of Obedience unto Righteouſneſs?</hi> Rom. 6.16. <hi>For the wages of ſin is death,</hi> v. 23. They that ſerve ſin, or live in it, are Servants to the Devil, and <hi>cannot ſerve two Maſters.</hi> And is not the Lord God, that made the Heavens and Earth and all things therein, ſtronger than the Devil to lead out of ſin? for as God will not lead to ſin, ſo the Devil will not lead to any thing that is really good; and many People are led by the Devil, and not by God who made them. And if they live and you dwell in ſin, what good do you to the People for your <hi>hire</hi> and <hi>wages?</hi> They could live in ſin, and keep that to maintain themſelves that doth maintain you; and are not you the unprofitable Servants, while you and your followers do live in Sin? And are not you to receive your <hi>wages</hi> with the <hi>unprofitable Ser<g ref="char:EOLhyphen"/>vants</hi> that did live in ſin as you do? Was it not ſin that did ſeparate from God, and lead into the fall, and doth ſeparate from God? And is it unpoſſible to remove that which did ſeparate from God? And muſt People ſtill remain in the fall, and from God? And while you live in that which keepeth from God in the fall, how can you come out of the fall to God again? And can you obtain forgiveneſs of ſin, while you live in ſin? And muſt not ſin be forſaken? <hi>They that forſake their ſin ſhall have mercy,</hi> ſaith the Scripture; bet do not you ſay to the People, <hi>They have mercy, though they live in ſin?</hi> A falſe Doctrine, which proceeds from a dark unclean Spirit, and not from the Spirit of God.</p>
+            <p>
+               <hi>Biſhop</hi> and <hi>Prieſt,</hi> how can you but deny <hi>Perfection in this life,</hi> while you deny the effects of Chriſts coming (which doth perfect his work in his People) and are not his works to be done within, where the <hi>Serpents head</hi> is to be bruiſed? And can his head be bruiſed without Chriſt, the only means ordained of God to do it? and ſo his work in you is not yet done, but his <hi>Enemies work</hi> in you doth yet ſtand, which is <hi>ſin</hi> and <hi>uncleanneſs,</hi> &amp; this makes you to oppoſe the <hi>work</hi> of <hi>Chriſt,</hi> which
+<pb n="15" facs="tcp:101678:8"/>is, <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> bind the ſtrong man, and to caſt him out of poſſeſſion, and to lay the Ax to the Root of the unfruitful Tree</hi> (which by God was never planted) <hi>and the Serpent and his ſeed,</hi> and all that doth belong to him turned out, <hi>root</hi> and <hi>branch,</hi> and all that belongs to the Enemy of God, by Chriſt, the higher Power, deſtroy'd. And then the <hi>Image of God</hi> wrought, and the <hi>fruit of the Spirit</hi> known and witneſſed; as it is written, <hi>And ſuch were ſome of you but ye are waſhed, but ye are ſanctified, but ye are juſtified in the Name of the Lord Jeſus; and by the Spirit of our God,</hi> 1 Cor. 6.11. And they ſaid, <hi>Chriſt in us the hope of Glory; and know you not your own ſelves, how that Je<g ref="char:EOLhyphen"/>ſus Chriſt is in you, except you be Reprobates?</hi> 2 Cor. 13.5. Thus Jeſus Chriſt hath and doth do his works in his People, whilſt <hi>unbelievers</hi> do <hi>talk</hi> of his <hi>coming,</hi> and ſin in them ſtill remaining, which is the <hi>work of the Devil.</hi>
+            </p>
+            <p>
+               <hi>Biſhop</hi> and <hi>Prieſt,</hi> Chriſt ſaith, <hi>Learn of me,</hi> and you ſay, <hi>learn of us,</hi> and them that do not, are proſecuted in your Courts, and caſt into <hi>Goal,</hi> and <hi>goods</hi> taken from them. And Chriſt ſaid, <hi>Feed my Lambs,</hi> Joh. 21.15. <hi>Feed ye the Church of God,</hi> Acts 20.28. <hi>Feed ye the flock of God,</hi> 1 Pet. 5.2. Mind what Chriſt ſaith, <hi>Feed my Lambs, my Church, my flock.</hi> And in ef<g ref="char:EOLhyphen"/>fect you ſay, <hi>We will make you all feed us, or elſe we will have a ſuit in Law againſt you, and recover trible damage, and drive away your cattel or goods, or caſt your Bodies to Priſon until you pay us.</hi> This we believe you will do, and you have done already: The People of God that had the largeſt meaſure of the Spirit of God, and of the <hi>Virtue, Wiſdom</hi> and <hi>Knowledge of God,</hi> were <hi>Servants</hi> to the reſt, and <hi>good Examples,</hi> and did exceed o<g ref="char:EOLhyphen"/>thers in <hi>meekneſs, mildneſs, lowlineſs,</hi> and all manner of <hi>humility,</hi> according to the largeneſs of that of God, which they had received. And you, according to what of men you have received, are by them preferred and entituled, <hi>Lords, Biſhops, Maſters, Prieſts.</hi> So herein one with <hi>Pope</hi> and <hi>Papiſts,</hi> and alſo one with the <hi>Heathen, exerciſing Lordſhip over the People</hi> (contrary to Chriſt and his Diſciples, who were all <hi>Brethren,</hi> and he their only <hi>Maſter,</hi> Mat 23.) and ſo bear ſway and rule over the People, and compel them as Servants to you, or more like <hi>ſlaves</hi> than <hi>ſervants;</hi> for Servants may change their Maſters, if they do not like them, but the People cannot change you, be you never ſo cruel and bad although they do complain, and deny you and your ſtolen ware out o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> other mens works, and not from the Spirit of God. Is it not a ſlaviſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> condition to compel a People to what they know will not ſerve thei<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> turn, &amp; to make them pay for that, altho' they do refuſe it? If it we<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> upon the account of worldly things, it would be the better boren; b<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> it doth concern our <hi>Souls Health</hi> and <hi>Salvation,</hi> and <hi>everlaſting Happine<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> and <hi>Well-beeing, world without end.</hi> And the Lord God whom we obe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> can deliver us out of our mercileſs hands; but if we ſhould obey yo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="16" facs="tcp:101678:9"/>you cannot deliver us out of the juſt hand of God; therefore we little matter what you can or will do, while we <hi>keep our Conſciences void of offence towards God and men.</hi> You are eaſily to be known; your <hi>riſing up</hi> hath brought many down; You are <hi>black without</hi> and <hi>dark within;</hi> your making <hi>thick</hi> hath made many <hi>thin;</hi> thoſe that do feed you, you cry <hi>peace</hi> to, and thoſe that do refuſe to follow you, are your Adverſaries, be they never ſo good; ſo that we do plainly ſee, that you did not come for our <hi>good,</hi> but for our <hi>goods;</hi> not to <hi>feed the flock,</hi> but that the <hi>flock may feed you,</hi> as it is written, <hi>Wo to the Shepherds of</hi> Iſrael <hi>that do feed them<g ref="char:EOLhyphen"/>ſelves: ſhould not the Shepherd feed the flock? ye eat the fat, and ye clothe you with the Wool; ye kill them that are fed, but you feed not the flock,</hi> Ezek. 34.23. Here you may ſee, that you do the ſame <hi>works</hi> as the falſe Shep<g ref="char:EOLhyphen"/>herds did before you, and we declare againſt you, as the godly did a<g ref="char:EOLhyphen"/>gainſt them; <hi>ye kill them that are feed,</hi> (mind that) do not you ſeek to deſtroy that which is led by the Lord, and by him begotten, which is the <hi>New-birth, wherein dwelleth Righteouſneſs;</hi> with it doth all things become <hi>new;</hi> therefore <hi>if any man be in Chriſt, he is a New-Creature, old things are paſt away, behold, all things are become new,</hi> 2 Cor. 5.17. Is there any thing in <hi>you</hi> become new? or is the corrupt Birth ſtill alive, from which nothing that is good can proceed, and ſo you cannot witneſs your ſelves to be <hi>new Creatures</hi> in Chriſt, but in ſelf and ſelfiſhneſs, and ſeek your ſelves more than Chriſt, and the good of the People: You run for (and after) the things of this World, and the <hi>Kingdom of God</hi> you cannot ſee, who do not witneſs the New-birth, as Chriſt ſaid, <hi>Ex<g ref="char:EOLhyphen"/>cept a man be born again, he cannot ſee the Kingdom of God,</hi> Joh. 3.3. God ſaid of your Fathers, who did as you do (<hi>viz.</hi> run and were not ſent) <hi>I have not ſent theſe Prophets, yet they run; I have not ſpoken to them, yet they propheſie,</hi> Jer. 23. People, let him that wiſheth you well, deſire you to read over this chapter in the fear of God, and conſider of it, and lay it to heart, &amp; you may plainly ſee, that thoſe were the Fathers of the falſe Prophets now; and it may be now ſaid to theſe, as it was then ſaid to thoſe in this chapter, and elſe-where. I ſay, let them be compared in the old and new Teſtament with the falſe Prophets and Hirelings then, and you may ſee theſe (where they were, doing what they did) <hi>ſowing Chaff inſtead of Wheat,</hi> and <hi>telling a Dream inſtead of preaching the living Vord of God, that was with God in the beginning,</hi> John 1. And this living Word came to the Prophets of the Lord, ſaying; and what the <hi>Word <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>f God</hi> ſaid and made known to them, that was written in the Scriptures <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y ſeveral of the Prophets; and <hi>John</hi> did witneſs the ſame <hi>living Word,</hi> which <hi>Word</hi> was <hi>Chriſt;</hi> and he was <hi>clothed with a veſture dipt in Blood, and his Name is called the Word of God,</hi> Rev. 19.13. and thoſe whom God
+<pb n="17" facs="tcp:101678:9"/>did ſend, did direct the People to the ſame <hi>Word of God,</hi> and ſaid, <hi>The Word is nigh thee, even in thy heart &amp; in thy mouth; that is the Word of Faith which we preach,</hi> Rom. 10.8. Not only what <hi>Paul</hi> did preach, for he ſaid what we preach. And they did direct where the People might find the <hi>Word</hi> in the Mouth &amp; in the Heart; <hi>all that do not direct the People to this living Word, have but a dream to tell them,</hi> Jer. 23.28. Mind what a dream is: A man may think to be where he is not, and to do what he doth not, and to ſee what he doth not ſee; juſt ſo are all theſe <hi>Dreamers,</hi> who do not direct the People to Chriſt, and where to ſind them. But if ever theſe <hi>Dreamers</hi> will awake out of <hi>ſin</hi> and <hi>unrighteouſneſs,</hi> they will come to ſee, that all that which they have done is but as a <hi>Dream,</hi> and not <hi>Truth;</hi> and as there was in former Ages falſe Prophets, as well as true Prophets of the Lord, even ſo it is now. And the Lord God for<g ref="char:EOLhyphen"/>merly made uſe of the meaneſt ſort (in the account of the World) to confound the wiſe, ſo now, as it is written, <hi>For ye ſee your calling, Bre<g ref="char:EOLhyphen"/>thren, how that not many wiſe men after the fleſh, not many mighty, not many noble are called; but God hath choſen the fooliſh things of the World to con<g ref="char:EOLhyphen"/>found the things that are mighty, and baſe things of the World, and things that that are deſpiſed, hath God choſen; yea, and things that are not, to bring to nought things that are,</hi> 1 Cor. 1.26, 27, 28. As it was then, even ſo it is now, and the <hi>worldly Wiſdom</hi> and its <hi>learning,</hi> and all that it can do, is too ſhort to bring man into Reſt &amp; Peace with God; it is not the <hi>learn<g ref="char:EOLhyphen"/>ing</hi> bought for Money, but the <hi>free learning of Chriſt, that doth give People the ſaving knowledge;</hi> therefore in vain is it for you to ſtrive in your own <hi>ſtrength, wiſdom</hi> and its <hi>learning;</hi> come to Chriſt, that you may ſee that you are poor, that you may receive the Goſpel, and that the <hi>Eye which the god of the World hath blinded may be opened,</hi> and you out of the <hi>Devils Priſon</hi> may be ſet at liberty, to ſerve the living God: And this will he better for you, than to think you are what you are not, and de<g ref="char:EOLhyphen"/>ceive your ſelves and others; and better than to obtain <hi>high Places</hi> and <hi>large Riches</hi> in the world, which are uncertain, if lawfully obtained.</p>
+            <p>
+               <hi>Biſhop</hi> &amp; <hi>Prieſt,</hi> this is not a time for you to think to hide your ſelves, for the Lord God doth raiſe his witneſs in his People, and he doth open their <hi>underſtandings,</hi> and they come to ſee what they did not ſee, and to love that which is <hi>good,</hi> and to hate the <hi>evil</hi> and declare againſt it, as <hi>faithful Witneſſes for our God:</hi> And moſt of the People do now ſee your <hi>ungodly, covetous, ſelfiſh Lives and Practices,</hi> and how little good ſervice you have done in the Country, and how troubleſom &amp; burdenſom you have been, and how you have exalted your ſelves in Pride above mea<g ref="char:EOLhyphen"/>ſure; your <hi>Coaches, Horſes</hi> and <hi>vain Attendance</hi> do witneſs it: The People will come more and more to ſee you, as their Underſtandings
+<pb n="18" facs="tcp:101678:10"/>will be opened, and they enlarged in the <hi>knowledge of God.</hi> And now there are many out of fear (of your <hi>High-places, Threatnings</hi> and <hi>Courts</hi>) that do heat and follow you, more than out of love to any good they receive from you: And as People do come into the true fear of God, the ſlaviſh fear will wear off from them, and you they will not follow; for <hi>Pride</hi> and <hi>Self-exaltedneſs</hi> will have a fall, and great will the fall of it be: And this is our Joy, that the Lord will reign, whoſe right it is, who is worthy to be <hi>exalted, honoured, magnified, glorified, praiſed,</hi> and forever <hi>obey'd.</hi> He, the <hi>Lamb of God will have the Victory,</hi> and it is in vain for you to ſtrive againſt him who gave you <hi>Breath,</hi> and can take it from you when he will; <hi>Stand in awe, and ſin not,</hi> and ſtrive not againſt Chriſt in his <hi>Temple,</hi> in his People, as the Scripture ſaith, <hi>Know ye not, that ye are the Temples of God, and that the Spirit of God dwelleth in you?</hi> 1 Cor. 3.16. <hi>He that defiles the Temple of God, him ſhall God deſtroy; for the Temple of God is holy, which Temple ye are,</hi> v. 27. <hi>What! know you not that your Bodies are the Temples of the holy Ghoſt,</hi> ch. 6.19. <hi>Ye are the Temples of the living God, as God hath ſaid,</hi> 2 Cor. 6.16. You know not what you do in hating thoſe People whom God loveth, and dwelleth in. You ſtrive to draw from God thoſe that ſtrive to draw you to God. You ſeek to deſtroy thoſe that ſeek to ſave you from deſtruction. You would draw us from <hi>good</hi> to the <hi>evil,</hi> and we would draw you from the <hi>evil</hi> to the <hi>good.</hi> You would draw us from the <hi>Teachings of the Grace of God,</hi> to be taught by you <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and we would draw you to the <hi>teachings of the Spirit, that makes ali<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> to God.</hi> You would draw us from a <hi>heavenly Condition</hi> to the <hi>earthly,</hi> where you are; and we would draw you from the <hi>earthly</hi> to the <hi>hea<g ref="char:EOLhyphen"/>venly,</hi> where we are, through the mercy of our God. And thus you reward us <hi>evil</hi> for <hi>good,</hi> and we deſire to do you <hi>good</hi> for <hi>evil.</hi> You hate in us what God loves, and we hate in you what God hates, and what ye ought to hate, which is <hi>Sin.</hi> You not believing in the <hi>Infal<g ref="char:EOLhyphen"/>lible</hi> and <hi>Diſcerning Spirit of God,</hi> cannot judge the things of God <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> right, but do as it is written; <hi>Wo unto them that call evil good, and go<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> evil, that put darkneſs for light, and light for darkneſs; that put bitte<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> for ſweet, and ſweet for bitter,</hi> Iſa. 5.20. You may here read you<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſelves, and ſee your condition; you do as in verſ. 23. <hi>take away th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Righteouſneſs of the Righteous from him;</hi> and it is our deſire to take aw<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> the <hi>
+                  <g ref="char:V">Ʋ</g>nrighteouſneſs</hi> of the <hi>
+                  <g ref="char:V">Ʋ</g>nrighteous</hi> from you, and that all may co<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> to know the Righteouſneſs of Jeſus Chriſt, and in him to witne<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> their Souls Health and Salvation, and with us to partake of the <hi>hea<g ref="char:EOLhyphen"/>venly Enjoyments,</hi> that in the <hi>Treaſure-Houſe</hi> of our <hi>God</hi> is to be enjoy'd and thus we wiſh <hi>that all men may come to the acknowledgment of the Tr<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+                  <pb n="19" facs="tcp:101678:10"/>that they may receive Forgiveneſs of their Sins, and be ſaved from the Wrath of God that cometh on the Children of Diſobedrence,</hi> Col. 3.6. Rom. 1.18. ch. 2.5, 6, 7, 8, 9. Here you may ſee that the portion of the <hi>Diſobedi<g ref="char:EOLhyphen"/>ent</hi> is the <hi>Wrath of God,</hi> and you muſt all be either <hi>obedient</hi> or <hi>diſobe<g ref="char:EOLhyphen"/>dient</hi> to Chriſt. Oh! that you would mind it, conſider it, truly weigh it, and lay it to heart, whether of theſe you are, that ye may not deceive your ſelves in thinking to be what you are not, and ſo come ſhort of your expectation; for you muſt reap of what you ſow, (and how can ye expect to ſow one kind of Seed, and reap of another?) as its written, <hi>Be not deceived, God is not mocked, for whatſoever a man ſow<g ref="char:EOLhyphen"/>eth, that he ſhall alſo reap; for he that ſoweth to the fleſh, ſhall of the fleſh reap Corruption; but he that ſoweth to the ſpirit, ſhall of the ſpirit reap Life ever<g ref="char:EOLhyphen"/>laſting,</hi> Gal. 6.7, 8. People, come to Chriſt the Light, that ye may ſee what Seed ye ſow, and be no longer deceived by the <hi>windy Doctrine</hi> of ungodly men, who <hi>draw nigh unto God with their Mouthes and with their Lips, but their Hearts are far from him, teaching for Doctrine the Traditions of men;</hi> this is Scripture; and theſe are the Deceivers which the Peo<g ref="char:EOLhyphen"/>ple are to draw from, and to come to the <hi>Grace of God</hi> to be taught, which was and is the Teacher of the Godly; <hi>For the Grace of God that bringeth Salvation hath appeared to all men, teaching us, that denying <g ref="char:V">Ʋ</g>ngod<g ref="char:EOLhyphen"/>lineſs and worldly Luſts, we ſhould live ſoberly, righteouſly and godly in this preſent world,</hi> Tit. 2.11, 12. This is the true Teacher, <hi>the Grace of God;</hi> and the true Meſſengers of Chriſt did and do direct the People to the Grace of God, which will not deceive them. And theſe that in truth do direct them to that which will not deceive, cannot be Deceivers; but thoſe that do direct the People to any other thing or things, from the <hi>living Teacher, that will not be removed into a corner, are Deceivers and deceived,</hi> Iſa. 30.20, 21.</p>
+            <p>
+               <hi>Biſhop</hi> and <hi>Prieſt,</hi> the living God ſaith of Chriſt, <hi>This is my beloved Son in whom I am well-pleaſed, hear ye him:</hi> And you have that which ye have received of men, who have ſet you at work, and it doth well pleaſe you; and if we will not hear and pay you, you perſecute and brand us with Names of Reproach, and will ſtir up the Magiſtrates againſt us; thus you have done, and this you are yet like to do. But this is the <hi>Work</hi> of <hi>Chriſt,</hi> who did and doth work <hi>love, peace</hi> and <hi>good will towards me<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> and <hi>forgive Enemies?</hi> or is it not the <hi>Devil's work</hi> to make <hi>ſtrife</hi> and <hi>ill will, deſtroy Goods, caſt to Priſon,</hi> and <hi>ſtir up the Magiſtrates</hi> againſt a <hi>peaceable People?</hi> If, this be not the <hi>Devil's work,</hi> whoſe work is it? for I am ſure it is not of <hi>God;</hi> for the <hi>righteous God</hi> by his <hi>Word</hi> in his <hi>People,</hi> in all Ages did declare againſt thoſe things (and the like) of your Practice. And as for thoſe People formerly, which did the ſame work as now you do,
+<pb facs="tcp:101678:11"/>who may be call'd your <hi>Fathers; John</hi> ſaid to them, <hi>O generation of Vipers</hi> altho they did come to his <hi>Baptiſm,</hi> not having <hi>fruits meet for Repentance<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> were not accepted, but call'd, <hi>Generation of Vipers,</hi> Mat. 3.7.8. And <hi>wo unto you Scribes, Phariſees and Hypocrites, for ye ſhut up the Kingdom of Heave<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> againſt men; for ye neither go in your ſelves, neither ſuffer ye them that are en<g ref="char:EOLunhyphen"/>tring to go in,</hi> Mat 23.13. Is not this now your work? you will neither en<g ref="char:EOLunhyphen"/>ter in your ſelves, nor ſuffer them that are entring to go in: Can you ſay<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> that you have entred into the <hi>Kingdom?</hi> or can you deny that you do no<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſeek to hinder others to enter in, and keep them in the <hi>Kingdom of th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> World,</hi> where you are? or can you give a true account of the <hi>Way to th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Kingdom,</hi> or of the <hi>Government</hi> therein? or how and when you did enter into the Kingdom, and what you did meet with by the way? or who o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> your followers did follow you then? or can witneſs that ever you did direct them then? and how could you direct others where you your ſelves are ſtrangers? And ſo as it written, <hi>The People do periſh for want of knowledge, and the Leaders of the People do cauſe them to err, and they that are led by them ſhall be deſtroyed?</hi> And as <hi>Elymas</hi> did turn away the Deputy from the Faith; ſo do not you now turn the People from the <hi>living Faith</hi> which is the <hi>gift of God,</hi> to a dead form of Worſhip; and why may no<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> we ſay thus to the Guilty now, ſith it was ſaid to one of old more ſharp<g ref="char:EOLhyphen"/>ly, if ye do the ſame work as he did, and <hi>pervert the right way of the Lord <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Acts</hi> 13.7, 8, 9, 10. I can plainly make it appear, that you (I ſpeak to the guilty) do the ſame works as your <hi>Fore-Fathers,</hi> the <hi>ungodly Generation</hi> did, and is not their <hi>reward due</hi> to you? and did not <hi>Chriſt,</hi> and <hi>Paul</hi> hi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> true Meſſenger, ſay, <hi>that the ungodly in the Ages before, were fathers of th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ungodly in their age?</hi> even ſo may we ſay now. And it was not their ſaying <hi>that they were</hi> Abraham's <hi>Children,</hi> made them ſo to be, <hi>while they were <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> their Father the Devil</hi> (as Chriſt ſaid) <hi>and doing his works;</hi> neither will <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſerve your turn to ſay, <hi>that you are Children of God,</hi> while you do hate and hurt his People, which is the <hi>work of the Devil,</hi> as hath been proved. <hi>Speak<g ref="char:EOLhyphen"/>ing,</hi> when God requires <hi>Doing,</hi> is not regarded; when the <hi>works</hi> are co<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>trary to the <hi>words,</hi> the <hi>heart</hi> is <hi>deceitful;</hi> and from the <hi>old heart,</hi> that is n<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> by God renewed, cannot proceed any thing to pleaſe God; for when th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>old corrupt Nature</hi> ſpeaketh <hi>true words,</hi> they are not accepted with God and although they ſay, <hi>The Lord liveth, ſurely they ſwear falſly</hi> Jer. 5.2. <hi>F<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> what ſoever is not of faith, is ſin,</hi> Rom. 14.23. <hi>But without Faith it is impoſſib<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> to pleaſe God,</hi> Heb. 11.6. <hi>Faith is the gift of God,</hi> and is <hi>within</hi> to be found and the <hi>meek, mild, lowly</hi> and <hi>ſingle <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> hearted ones</hi> do ſind the precio<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Peace, and are enriched with th<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Riches</hi> that ſhall never be tak<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> from them: But <hi>greedy Worms</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> and feed themſelves with th<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> which will not ſerve in time of <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eed and neceſſity.</p>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
